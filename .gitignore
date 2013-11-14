@@ -28,8 +28,8 @@
 *.*~
 .*.swp
 .DS_Store
-bin
-Bin
+#bin
+#Bin
 obj
 Obj
 Debug
