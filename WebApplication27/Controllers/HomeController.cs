@@ -10,6 +10,8 @@ namespace WebApplication27.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.LeroyJenkins = "I am the walrus.";
+            
             return View();
         }
 
